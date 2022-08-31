@@ -1,0 +1,19 @@
+{
+    "name": "menjadiprogrammerhandal/belajar-php-composer-library",
+    "description": "Belajar PHP Composer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrew Soebagoes",
+            "email": "andrew@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "MenjadiProgrammerHandal\\Library\\" : "src/"
+        }
+    },
+    "require": {
+    "php" : ">=8.0"
+    }
+}
