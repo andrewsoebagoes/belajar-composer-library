@@ -10,7 +10,7 @@ class Customer {
         
     }
 
-    public function sayHalo(string $name): string{
+    public function sayHalo(string $name="Tamu"): string{
 
         return "Helo $name, Nama saya adalah $this->name";
 
