@@ -1,6 +1,6 @@
 <?php
 
-namespace MenjadiProgrammerHandal\Belajar;
+namespace MenjadiProgrammerHandal\Library;
 
 
 class Customer {
